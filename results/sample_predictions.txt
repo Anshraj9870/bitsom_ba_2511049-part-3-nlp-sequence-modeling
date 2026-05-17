@@ -1,0 +1,40 @@
+Text: checking scheduled maintenance today
+Actual: 1
+Predicted: 1
+
+Text: app experience smooth reliable appreciate quick response
+Actual: 2
+Predicted: 2
+
+Text: confirm whether ticket assigned
+Actual: 1
+Predicted: 1
+
+Text: raised multiple tickets nobody fixed problem ticket number
+Actual: 0
+Predicted: 0
+
+Text: billing incorrect charged twice month
+Actual: 0
+Predicted: 0
+
+Text: want cancel service quality poor unreliable
+Actual: 0
+Predicted: 0
+
+Text: internet speed slow customer care helping
+Actual: 0
+Predicted: 0
+
+Text: share status router request
+Actual: 1
+Predicted: 1
+
+Text: product quality bad regret purchasing
+Actual: 0
+Predicted: 0
+
+Text: raised multiple tickets nobody fixed problem ticket number
+Actual: 0
+Predicted: 0
+
